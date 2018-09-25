@@ -3,9 +3,13 @@
 
 Hello and thank you for using Quick Setup Commander!!
 
+To Run the Setup Commander
+paste this into your console : ./QuickSetupCommander/QuickSetup.sh
+
 First it will run 'npm init' followed by the dependencies listed below followed by the eslint init
 
-*NOTE this file does not edit the eslintrc "YET" so edit that to your preferences
+*NOTE this file does not edit the eslintrc "YET"
+thus edit that to your preferences
 
 My perfered settings for eslintrc
 Add mocha to true
