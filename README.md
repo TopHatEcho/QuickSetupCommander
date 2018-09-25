@@ -16,11 +16,11 @@ First it will run 'npm init' followed by the dependencies listed below followed 
 *NOTE this file does not edit the eslintrc "YET"
 thus edit that to your preferences
 
-My perfered settings for eslintrc
-Add mocha to true
-add mocha to plugins
-set indent to 2
-add SwitchCase: 1
+My perfered settings for eslintrc:
+Add mocha to true,
+add mocha to plugins,
+set indent to 2,
+add SwitchCase: 1,
 and a "no-console": 0
 
 
