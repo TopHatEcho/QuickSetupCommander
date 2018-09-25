@@ -39,5 +39,6 @@ This Program will install the folowing Dependecies as Dev-dependecies
 - axios
 - archiver
 
+If you wish to have other dependecies added message me 
 
 Made By TopHatEcho
