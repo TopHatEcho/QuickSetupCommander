@@ -3,6 +3,11 @@
 
 Hello and thank you for using Quick Setup Commander!!
 
+
+To get started clone the Quick Setup Commander into any file you desire
+code bellow:
+git clone https://github.com/TopHatEcho/QuickSetupCommander.git
+
 To Run the Setup Commander
 paste this into your console : ./QuickSetupCommander/QuickSetup.sh
 
