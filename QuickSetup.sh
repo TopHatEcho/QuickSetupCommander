@@ -23,6 +23,8 @@ npm install eslint-plugin-mocha --save-dev &
 wait
 npm install eslint-plugin-import --save-dev &
 wait
+npm install Supertest --save-dev &
+wait
 npm install nodemon --save-dev &
 wait
 npm install archiver --save-dev &
