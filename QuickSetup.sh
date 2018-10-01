@@ -45,6 +45,8 @@ npm install wdio-mocha-framework --save-dev &
 wait
 npm install wdio-spec-reporter --save-dev &
 wait
+npm install express --save-dev &
+wait
 echo "please enter preferd linting options"
 wait
 node ./node_modules/.bin/eslint --init
